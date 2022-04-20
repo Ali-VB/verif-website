@@ -1,0 +1,13 @@
+.supporter-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20rem;
+    background-color: #f7f7f7;
+    overflow: hidden;
+}
+
+.supportItem img{
+width: 10rem;
+margin: 3rem;
+}

@@ -1,0 +1,13 @@
+.header-animated{
+
+    margin: 7rem aut;
+    padding: 0 5rem; 
+}
+.header-first-text{
+    display: inline-block; 
+    width: 20rem;
+    color: crimson;
+    overflow-wrap:break-word
+
+
+}

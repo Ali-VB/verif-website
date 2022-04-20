@@ -1,0 +1,20 @@
+.BuySection{
+    height: 35rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.BuySection img{
+   width: 40rem;
+}
+.BuySection ul li{
+  list-style-type: circle;
+  font-size: 2rem;
+}
+.leftPart button{
+    /* display: flex;
+    flex-direction: column; */
+    /* justify-content: center;
+    align-items: center; */
+    ma
+}

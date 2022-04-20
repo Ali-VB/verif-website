@@ -1,0 +1,14 @@
+.features-title-section{
+    height: 8rem;
+    background-color: #;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.features-title{
+  
+}
+.features-section{
+    height: 40rem;
+    background-color: blue;
+}

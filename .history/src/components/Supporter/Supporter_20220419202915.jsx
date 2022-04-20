@@ -1,0 +1,38 @@
+import React from "react";
+import "./Supporter.css";
+import { Slider } from "@lifarl/react-scroll-snap-slider";
+import montrealLogo from "../../Assets/imgs/montreal.png"
+import bank-national from "../../Assets/imgs/montreal.png"
+import montrealLogo from "../../Assets/imgs/montreal.png"
+import montrealLogo from "../../Assets/imgs/montreal.png"
+import montrealLogo from "../../Assets/imgs/montreal.png"
+import montrealLogo from "../../Assets/imgs/montreal.png"
+import montrealLogo from "../../Assets/imgs/montreal.png"
+import montrealLogo from "../../Assets/imgs/montreal.png"
+import montrealLogo from "../../Assets/imgs/montreal.png"
+
+const Supporter = () => {
+  return (
+    <div className="supporter-section">
+      <div>
+        <Slider>
+          <ul>
+            <li>
+              <img src={montrealLogo} alt="" />
+            </li>
+            <li>
+              <img src={} alt="" />
+            </li>
+            <li>
+              <img src={} alt="" />
+            </li>
+          </ul>
+          
+          
+        </Slider>
+      </div>
+    </div>
+  );
+};
+
+export default Supporter;

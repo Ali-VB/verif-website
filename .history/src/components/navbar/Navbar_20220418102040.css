@@ -1,0 +1,14 @@
+.nav-bg{
+background-image: url("../../Assets/imgs/nav-bg.png");
+height: 100vh;
+}
+.navbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 10vh;
+   
+}
+.verif-logo{
+    width: 7rem;
+}

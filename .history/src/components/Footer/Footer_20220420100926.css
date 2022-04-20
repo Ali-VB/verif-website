@@ -1,0 +1,8 @@
+.footer-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15rem;
+    background-color:  #40B3AC;
+    overflow: hidden;
+}

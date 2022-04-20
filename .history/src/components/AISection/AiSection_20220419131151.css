@@ -1,0 +1,27 @@
+.aiSection-title-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 60%;
+    padding: 2rem;
+    margin: 0 auto;
+}
+.aiSection-title-section img{
+  width: 5rem;
+  margin-right: 0.5rem;
+}
+
+.aiSection-title{
+  
+}
+.aiSection-section{
+    height: 40rem;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aiSection-section img{
+   width: 30%;
+}

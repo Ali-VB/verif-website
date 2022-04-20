@@ -1,0 +1,19 @@
+.aiSection-title-section{
+  width: 60%;
+  margin: 0 auto;
+}
+.aiSection-title-section img{
+  width: 5rem;
+  margin-right: 0.5rem;
+}
+
+.aiSection-title{
+  
+}
+.features-section{
+    height: 40rem;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

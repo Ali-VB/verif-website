@@ -1,0 +1,15 @@
+.header-animated{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 7rem 0;
+    padding: 0 5rem; 
+}
+.header-first-text{
+    display: inline-block;  width: 5rem;
+    color: crimson;
+    overflow-wrap;
+
+
+}

@@ -1,0 +1,11 @@
+.features-title-section{
+    height: 8rem;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    
+}
+.features-title{
+   padding: 2rem;
+   margin: 0 auto;
+}

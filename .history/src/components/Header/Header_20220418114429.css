@@ -1,0 +1,6 @@
+.header-text-first{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height:10rem;
+}

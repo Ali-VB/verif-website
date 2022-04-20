@@ -1,0 +1,75 @@
+.features-title-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2rem;
+}
+.features-title-section img{
+  width: 5rem;
+  margin-right: 0.5rem;
+}
+
+.features-section{
+    height: 40rem;
+    background-color: #f7f7f7;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+ 
+
+}
+.feature-table{
+    margin: 0 auto;
+    padding: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 65%;
+    /* height: 80vh; */
+    overflow: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.feature-table div{
+    width: 15rem;
+    height: 13rem;
+}
+
+.feature-table div:nth-child(1),
+.feature-table div:nth-child(2),
+.feature-table div:nth-child(3){
+    border-right: 0.7px solid rgba(167, 161, 161, 0.722);
+    border-bottom: 0.7px  solid rgba(167, 161, 161, 0.722);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.feature-table div:nth-child(5),
+.feature-table div:nth-child(6),
+.feature-table div:nth-child(7){
+    border-right: 0.7px  solid rgba(167, 161, 161, 0.722);
+    border-top:0.7px  solid rgba(167, 161, 161, 0.722);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.feature-table div:nth-child(4){
+    border-bottom: 0.7px  solid rgba(167, 161, 161, 0.722);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.feature-table div:nth-child(8){
+    border-top:0.7px  solid rgba(167, 161, 161, 0.722);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.feature-table h2,h4{
+    text-align: center;
+}
+

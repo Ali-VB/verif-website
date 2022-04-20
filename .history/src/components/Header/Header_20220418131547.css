@@ -1,0 +1,29 @@
+.header-animated{
+    width: 55rem; 
+    text-align: center;
+    overflow-wrap:break-word;
+    margin:0 auto;
+    padding: 5rem 5rem; 
+}
+.header-first-text{
+    padding: 3rem 3rem; 
+    color: #40B3AC;
+
+
+}
+.header-second-text{
+    padding: 3rem 3rem; 
+    color: #FAD700;
+
+}
+@keyframes header-text {
+    0%{
+        
+    }
+    3%{
+
+    }
+    100%{
+
+    }
+}

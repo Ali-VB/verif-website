@@ -1,0 +1,15 @@
+.supporter-section{
+    height: 15rem;
+    background-color: bisque;
+}
+.supporter-section img{
+    width: 20rem;
+}
+.supporter-section ul{
+    display: flex;
+    list-style-type: none;
+}
+.supporter-section ul li{
+    display: flex;
+  width
+}

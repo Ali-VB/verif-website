@@ -1,0 +1,14 @@
+.aiSection-title-section{
+    height: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aiSection-title-section img{
+  width: 5rem;
+  margin-right: 0.5rem;
+}
+
+.aiSection-title{
+  
+}

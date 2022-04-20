@@ -1,0 +1,10 @@
+.BuySection{
+    height: 40rem;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.BuySection img{
+   width: 50rem;
+}

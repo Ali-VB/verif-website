@@ -1,0 +1,36 @@
+.features-title-section{
+    height: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.features-title{
+  
+}
+.features-section{
+    height: 40rem;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.feature-table{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 65%;
+    /* height: 80vh; */
+    overflow: auto;
+    flex-direction: row;
+    gap: 2px ;
+}
+.feature-table div:nth-child(1),
+.feature-table div:nth-child(2){
+    width: 15rem;
+    height: 13rem;
+    /* margin: 5px; */
+    /* background-color: lightblue; */
+    border-right: 1px solid red;
+}

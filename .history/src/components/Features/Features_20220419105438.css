@@ -1,0 +1,30 @@
+.features-title-section{
+    height: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.features-title{
+  
+}
+.features-section{
+    height: 40rem;
+    background-color: #f7f7f7;
+}
+.feature-table{
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 65%;
+    height: 80vh;
+    overflow: auto;
+    flex-direction: row;
+}
+.feature-table div{
+    width: 250px;
+    height: 100px;
+    margin: 5px;
+    background-color: lightblue;
+}

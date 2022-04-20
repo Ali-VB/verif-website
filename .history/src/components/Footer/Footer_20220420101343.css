@@ -1,0 +1,11 @@
+.footer-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10rem;
+    background-color: #40B3AC;
+    overflow: hidden;
+}
+.footer-left-part p:span{
+    padding: 2rem;
+}

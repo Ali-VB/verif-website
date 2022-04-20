@@ -1,0 +1,16 @@
+.footer-section{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    height: 10rem;
+    background-color: #40B3AC;
+    overflow: hidden;
+}
+.footer-left-part span {
+  
+   padding: 1rem;
+}
+.footer-right-part span {
+ 
+   padding: 1rem;
+}

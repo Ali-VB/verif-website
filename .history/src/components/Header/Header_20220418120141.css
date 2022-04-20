@@ -1,0 +1,12 @@
+.header-animated{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 7rem 0;
+}
+.header-first-text{
+    display: inline-block;
+    color: crimson;
+ width: ;
+}

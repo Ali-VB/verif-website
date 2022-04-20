@@ -1,0 +1,12 @@
+.header-animated{
+
+    margin:0 auto;
+    /* padding: 0 5rem;  */
+}
+.header-first-text{
+    width: 50rem;
+    color: crimson;
+    overflow-wrap:break-word;
+
+
+}

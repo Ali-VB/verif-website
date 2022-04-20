@@ -1,0 +1,25 @@
+.nav-bg{
+    background-image: url("../../Assets/imgs/nav-bg.png");
+    height: 100vh;
+}
+.navbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height:10rem;
+   
+}
+.verif-logo{
+    width: 8rem;
+    margin-top: 3rem;
+}
+.navLink{
+    margin: 0;
+    padding:0;
+    list-style-type: none;
+    display: flex;
+    color: azure;
+    font
+    gap: 1rem;
+
+}
