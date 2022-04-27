@@ -1,0 +1,35 @@
+.footer-section{
+    display: flex;
+    align-items: center;
+    height: 7rem;
+    background-color: #40B3AC;
+    /* overflow: hidden; */
+}
+
+.footer-left-part a {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: none;
+}
+.footer-left-part a:hover {
+    color: rgb(250,215,0);
+    font-weight: bold;
+    cursor: pointer;
+}
+.footer-right-part{
+    display: flex;
+    justify-content: end;
+}
+.footer-right-part a {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 1.7rem;
+    color: white;
+}
+.footer-right-part a:hover {
+    color: rgb(250,215,0);
+    font-weight:
+    cursor: pointer;
+}

@@ -1,0 +1,48 @@
+.features-title-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2rem;
+  
+}
+.features-title-section img{
+  width: 5rem;
+  margin-right: 0.5rem;
+}
+
+.features-section{
+    height: 30rem;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.feature-table{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 75%;
+    /* height: 80vh; */
+    overflow: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.feature-table div{
+    width: 20rem;
+    height: 12rem;
+}
+
+.feature-table div:nth-child(1),
+.feature-table div:nth-child(2),
+.feature-table div:nth-child(3){
+
+
+
+/* @media only screen and (min-width: 768px){
+    
+} */

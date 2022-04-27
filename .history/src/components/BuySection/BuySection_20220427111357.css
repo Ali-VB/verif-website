@@ -1,0 +1,46 @@
+.BuySection{
+    min-height: 35rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.BuySection img{
+   max-width: 40;
+   padding-bottom: 3rem;
+   padding-left: 3rem;
+
+}
+.BuySection ul li{
+  list-style-type: circle;
+  font-size: 2.1rem;
+  padding: 0.5rem;
+}
+.leftPart {
+    display: flex;
+    flex-direction: column;
+    justify-content:start;
+    margin-right: 5rem;
+ 
+}
+.leftPart button{
+    width: 10rem;
+    margin: 1rem 2rem;  
+    font-size:x-large;
+    color: #40B3AC;
+    outline: #40B3AC;
+}
+.leftPart button:hover{
+  background-color: #40B3AC;
+}
+
+@media only screen and (max-width: 842px){
+  .BuySection{
+    min-height: 35rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+}

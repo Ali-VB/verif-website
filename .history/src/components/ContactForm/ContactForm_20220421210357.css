@@ -1,0 +1,8 @@
+.form{
+    color: white;
+    width: 40;
+}
+form .form-control:focus{
+    border-color: rgb(205,212,218);
+    box-shadow: none;
+  }

@@ -1,0 +1,47 @@
+.about-section{
+     
+    padding-top: 3rem;
+}
+.contact-section-left{
+}
+.photo-grid {  display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+        gap: 5px 5px;
+        grid-auto-flow: row;
+        grid-template-areas:
+          "photo1 photo4"
+          "photo2 photo4"
+          "photo3 photo5";
+        color:white;
+      }
+     
+      .photo-grid img{
+        width: 100%;
+        /* height:fit-content; */
+        object-fit: cover; 
+      }
+.photo1 { grid-area: photo1; 
+       background-color:red;
+    width: 10rem;
+  
+ }
+
+
+      
+.photo2 { grid-area: photo2; 
+       background-color:blue;
+       width: 10rem; }
+      
+.photo3 { grid-area: photo3; 
+       background-color:gray;
+       width: 10rem;}
+      
+.photo5 { grid-area: photo5;
+       background-color:green;
+       width: 10rem; }
+      
+.photo4 { grid-area: photo4;
+       background-color:black;
+       width: 10rem; }
+      

@@ -1,0 +1,22 @@
+.contact-section{
+    padding-top: 8rem;
+}
+.contact-section-left{
+    display: flex;
+   fl
+    justify-content: center;
+    align-items: center;
+}
+.contact-section-text{
+    color: white ;
+    font-size: 5rem;
+}
+.contact-section-left div:nth-child(1){
+    color: white ;
+    font-size: 5rem;
+}
+.contact-section-left div:nth-child(2){
+    color: white ;
+    font-size: 5rem;
+    font-weight: 600;
+}

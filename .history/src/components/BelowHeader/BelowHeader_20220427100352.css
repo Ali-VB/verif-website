@@ -1,0 +1,13 @@
+.text-second {
+  
+    background-color: #f7f7f7;
+    padding: 1.3em ; 
+    color: black;
+    font-size:3.2vw;
+    /* width: 100%; */
+    min-height: 30rem;
+    margin: 0 auto;
+    text-align: center;
+    /* transform: scale(0.94);
+    animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1); */
+  }

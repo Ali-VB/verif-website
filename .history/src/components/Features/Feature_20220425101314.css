@@ -1,0 +1,29 @@
+.features-title-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2rem;
+  
+}
+.features-title-section img{
+  width: 5rem;
+  margin-right: 0.5rem;
+}
+
+.features-section{
+    height: 30rem;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
+
+/* @media only screen and (min-width: 768px){
+    
+} */

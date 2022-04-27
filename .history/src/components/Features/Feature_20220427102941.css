@@ -1,0 +1,55 @@
+.feature-title-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1.5em;
+    background-color: white;
+  
+}
+.feature-title-section img{
+  max-width: 5rem;
+  margin-right: 0.5rem;
+}
+
+.feature-section{
+    min-height: 35em;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2em;
+   
+
+}
+.feature-section img{
+    max-width: 30em;
+    padding: 2em;
+    margin-left: 12em;
+ }
+ .feature-section ul {
+    list-style-image: url('../../Assets/imgs/checkedLi.png');
+    padding-top: 2em;
+ }
+ .feature-section ul li{
+  font-size: 2vw;
+   /* padding: 0.2rem; */
+   padding: 0;
+   margin: 0;
+ }
+ .feature-section ul li span{
+   position: relative;
+   bottom:0.4em;
+ }
+ .leftPart {
+     display: flex;
+     flex-direction: column;
+     justify-content:start;
+ }
+
+
+
+
+/* @media only screen and (min-width: 768px){
+    
+} */

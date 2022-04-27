@@ -1,0 +1,16 @@
+.form{
+    color: white;
+    width: 75%;
+    margin: 0 auto;
+}
+form .form-control:focus{
+    border-color: rgb(205,212,218);
+    box-shadow: none;
+  }
+
+button:hover, button:focus{
+    background-color: #40B3AC!important;
+    border: 1px #40B3AC;
+    color: white;
+    outline: n;
+  }

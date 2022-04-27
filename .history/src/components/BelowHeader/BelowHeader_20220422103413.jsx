@@ -1,0 +1,21 @@
+import React from "react";
+import "../Header/Header.css"
+
+const BelowHeader = () => {
+  return (
+    <div className="text-second">
+      <span className="text-second-span ">
+        If a phishing attack reaches their inbox,
+      </span>
+      <span className="text-second-span">3.18% of employees</span>
+      <span className="text-second-span">
+        will go as far as providing credentials!
+      </span>
+      <button type="button" class="btn d-inline btn-outline-success btn-lg">
+          Try Verif.A.I
+        </button> 
+    </div>
+  );
+};
+
+export default BelowHeader;

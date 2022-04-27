@@ -1,0 +1,32 @@
+
+.navbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height:8rem;
+}
+.verif-logo{
+    width: 8rem;
+    margin-top: 2rem;
+}
+.verif-logo:hover{
+    cursor: pointer;
+}
+.navLink{
+    margin: 0;
+    padding:0;
+    list-style-type: none;
+    display: flex;
+    color: azure;
+    font-size: 18px;
+    gap: 1rem;
+
+}
+.navLink:hover{
+    cursor: pointer;
+    color: #FAD700;
+}
+.link{
+    text-decoration: none;
+    color: rgb(254,254,254);
+}

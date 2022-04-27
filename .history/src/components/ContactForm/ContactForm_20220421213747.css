@@ -1,0 +1,13 @@
+.form{
+    color: white;
+    width: 75%;
+    margin: 0 auto;
+}
+form .form-control:focus{
+    border-color: rgb(205,212,218);
+    box-shadow: none;
+  }
+
+button:hover{
+    background-color: aqua!important;
+  }

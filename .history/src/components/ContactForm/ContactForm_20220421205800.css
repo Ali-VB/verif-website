@@ -1,0 +1,7 @@
+.form{
+    color: white;
+}
+form .form-control:focus{
+    border-color: w;
+    box-shadow: none;
+  }
