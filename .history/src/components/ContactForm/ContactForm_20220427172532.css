@@ -33,7 +33,7 @@ button:hover, button:focus, button:active{
   }
 button:hover, button:focus, button:active{
     background-color: #092e2c!important;
-    border: 1px #092e2c!important;
+    border: 1px ##092e2c!important;
     color: white!important;
     outline: none!important;
     box-shadow: none!important;

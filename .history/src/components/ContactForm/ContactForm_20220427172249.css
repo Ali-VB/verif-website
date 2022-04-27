@@ -25,15 +25,15 @@ button:hover, button:focus, button:active{
       font-size: 3vw;
   }
   button{
-    margin-top: 0;
+    margin-top: 0.rem!important;
     background-color: #40B3AC!important;
     border: 1px #40B3AC!important;
     color: white!important;
     outline: none!important;
   }
 button:hover, button:focus, button:active{
-    background-color: #092e2c!important;
-    border: 1px #092e2c!important;
+    background-color: #40B3AC!important;
+    border: 1px #40B3AC!important;
     color: white!important;
     outline: none!important;
     box-shadow: none!important;

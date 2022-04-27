@@ -51,25 +51,25 @@
   
 .photo2 { grid-area: photo2; 
        background-color:blue;
-       /* background: url('../../Assets/imgs/team//team-2.jpg') center center; */
+       background: url('../../Assets/imgs/team//team-2.jpg') center center;
        background-size: cover;
        background-repeat: no-repeat;  }
       
 .photo3 { grid-area: photo3; 
        background-color:gray;
-       /* background: url('../../Assets/imgs/team//team-3.jpg') center center; */
+       background: url('../../Assets/imgs/team//team-3.jpg') center center;
        background-size: cover;
        background-repeat: no-repeat; }
       
 .photo5 { grid-area: photo5;
        background-color:green;
-       /* background: url('../../Assets/imgs/team//team-5.jpg') center center; */
+       background: url('../../Assets/imgs/team//team-5.jpg') center center;
        background-size: cover;
        background-repeat: no-repeat;  }
       
 .photo4 { grid-area: photo4;
        background-color:black;
-       /* background: url('../../Assets/imgs/team//team-4.jpg') center center; */
+       background: url('../../Assets/imgs/team//team-4.jpg') center center;
        background-size: cover;
        background-repeat: no-repeat;  }
      
