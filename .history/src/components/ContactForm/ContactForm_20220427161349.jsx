@@ -40,7 +40,7 @@ const ContactForm = () => {
             // id="exampleInputEmail1"
             name="email"
             // aria-describedby="emailHelp"
-            required
+             required
           ></input>
         </div>
 
@@ -55,7 +55,7 @@ const ContactForm = () => {
                         rounded-0 text-primary font-monospace text-white shadow-none"
             // aria-label="First name"
             name="firstName"
-            required
+            // required
           ></input>
         </div>
         <div class="mb-3">
@@ -69,7 +69,7 @@ const ContactForm = () => {
                         rounded-0 text-primary font-monospace text-white shadow-none"
             // aria-label="Last name"
             name="lastName"
-            required
+            // required
           ></input>
         </div>
 

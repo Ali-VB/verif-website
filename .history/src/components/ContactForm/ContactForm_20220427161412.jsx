@@ -40,7 +40,7 @@ const ContactForm = () => {
             // id="exampleInputEmail1"
             name="email"
             // aria-describedby="emailHelp"
-            required
+             required
           ></input>
         </div>
 
