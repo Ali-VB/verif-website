@@ -10,7 +10,7 @@ export default function Header() {
         <span className="text-first-span">activity</span>
         <span className="text-first-span">jumped</span>
         <br />
-        <span className="text-first-span"><span className="text-warning">125%</span> in 2021</span>
+        <span className="text-first-span"><span className="">125%</span> in 2021</span>
         <br />
         <span className="text-first-span">
           <a
