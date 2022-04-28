@@ -1,0 +1,32 @@
+.text-second {
+    background-color: #f7f7f7;
+    background-color: #f7f7f7;
+    padding: 1.3em ; 
+    color: black;
+    font-size:3.2vw;
+    /* width: 100%; */
+    min-height: 8em;
+    margin: 0 auto;
+    text-align: center;
+    /* transform: scale(0.94);
+    animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1); */
+  }
+  .text-second-span {
+    display: inline-block;
+    opacity: 0;
+    filter: blur(4px);
+   
+  }
+  button{
+    max-width: 15rem;
+    margin-top: 2.5rem!important;
+    font-size:x-large;
+    color: #40B3AC;
+    outline: #40B3AC;
+}
+ button:hover{
+  background-color: #40B3AC;
+}
+.employee-class{
+font-weight: 600;
+}
