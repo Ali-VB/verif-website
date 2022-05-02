@@ -2,10 +2,8 @@ import React from "react";
 import "./AiSection.css";
 import image from "../../Assets/imgs/VERIF_icon.png";
 import screenShotOne from "../../Assets/imgs/ScreenShot-1.png";
+import video from "../../Assets/imgs/varifa.i..mp4";
 import screenShotTwo from "../../Assets/imgs/ScreenShot-2.png";
-import verifRedIMG from "../../Assets/imgs/verif-red.jpeg";
-import verifGreenIMG from "../../Assets/imgs/verif-green.jpeg";
-import verifRedSenderIMG from "../../Assets/imgs/verif-red-sender.jpeg";
 // import Pulse from 'react-reveal/Pulse';
 // import { useCallback, useState } from "react";
 // import { Controlled as ControlledZoom } from "react-medium-image-zoom";
@@ -36,9 +34,8 @@ const AiSection = () => {
       </div>
 
       <div className="aiSection-section">
-      <ImageZoom src={verifRedIMG} alt="app sceenshot" zoom={zoom.current} color="#BADA55" />
-      <ImageZoom src={verifRedSenderIMG} alt="app sceenshot" zoom={zoom.current} color="#BADA55" />
-      <ImageZoom src={verifGreenIMG} alt="app sceenshot" zoom={zoom.current} color="#BADA55" />
+      <ImageZoom src={video} alt="Image" zoom={zoom.current} color="#BADA55" />
+      <ImageZoom src={screenShotTwo} alt="Image" zoom={zoom.current} color="#BADA55" />
 
         {/* <Pulse delay={700} right> */}
 

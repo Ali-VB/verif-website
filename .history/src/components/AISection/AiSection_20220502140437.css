@@ -27,7 +27,7 @@
    border-radius: 10px;
    /* border: solid 1px rgb(231, 229, 229); */
    cursor: zoom-in!important;
-   box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
 }
 .img-cursor{
   cursor: zoom-in;

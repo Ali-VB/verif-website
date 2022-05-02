@@ -36,9 +36,9 @@ const AiSection = () => {
       </div>
 
       <div className="aiSection-section">
-      <ImageZoom src={verifRedIMG} alt="app sceenshot" zoom={zoom.current} color="#BADA55" />
-      <ImageZoom src={verifRedSenderIMG} alt="app sceenshot" zoom={zoom.current} color="#BADA55" />
-      <ImageZoom src={verifGreenIMG} alt="app sceenshot" zoom={zoom.current} color="#BADA55" />
+      <ImageZoom src={verifRedIMG} alt="Image" zoom={zoom.current} color="#BADA55" />
+      <ImageZoom src={verifRedSenderIMG} alt="Image" zoom={zoom.current} color="#BADA55" />
+      <ImageZoom src={verifGreenIMG} alt="Image" zoom={zoom.current} color="#BADA55" />
 
         {/* <Pulse delay={700} right> */}
 

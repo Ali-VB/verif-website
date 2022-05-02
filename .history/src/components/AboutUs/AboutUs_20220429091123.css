@@ -91,19 +91,8 @@
             
        }
        .photo-grid { 
-              grid-template-columns: 1fr 1fr;
-              grid-template-rows: 1fr 1fr 1fr;
-              gap: 7px 7px;
-              grid-auto-flow: row;
-              grid-template-areas:
-                "photo1 photo4"
-                "photo5 photo4"
-                "photo3 photo2";
-              color:white;
-              padding: 1em;
-              border: 1px white solid;
               max-width: 60%;
-              margin-left: 2em;
+             margin-left: 2em;
              
             }
             .contact-section-left-mainTxt div:nth-child(1){

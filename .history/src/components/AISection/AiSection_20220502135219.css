@@ -25,9 +25,8 @@
    max-width:25%;
    margin: 1rem;
    border-radius: 10px;
-   /* border: solid 1px rgb(231, 229, 229); */
+   
    cursor: zoom-in!important;
-   box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
 .img-cursor{
   cursor: zoom-in;
