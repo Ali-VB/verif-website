@@ -40,7 +40,7 @@ const AboutUs = () => {
         </div>
 
         <div className=" photo-grid">
-        <div class="photo1" ><ImageZoom  src={team1}  zoom={zoom.current} color="#BADA55"/></div>
+        <div class="photo1" ><ImageZoom className= src={team1}  zoom={zoom.current} color="#BADA55"/></div>
           <div class="photo2"><ImageZoom src={team2} zoom={zoom.current} color="#BADA55"/></div>
           <div class="photo3"><ImageZoom src={team3} zoom={zoom.current} color="#BADA55"/></div>
           <div class="photo4"><ImageZoom src={team4} zoom={zoom.current} color="#BADA55"/></div>

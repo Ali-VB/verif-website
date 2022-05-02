@@ -121,32 +121,11 @@
               line-height: 135%!important;
        }
 
-      
+       .photo-grid img{
+              max-width: 100%;
+             height:auto;
+          
+            }
               } 
 
        
-         
-              @media only screen and (max-width: 600px) {
-                     .photo-grid { 
-                            grid-template-columns: 1fr ;
-                            grid-template-rows: 1fr fr ;
-                            gap: 7px 7px;
-                            grid-auto-flow: row;
-                            grid-template-areas:
-                              ""
-                              "photo5 "
-                              "photo4"
-                             ;
-                            color:white;
-                            padding: 1em;
-                            border: 1px white solid;
-                            max-width: 70%;
-                            height: auto;
-                            margin-left: 2em;
-                           
-                           
-                          }
-              
-                       
-                   }
-             

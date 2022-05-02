@@ -91,18 +91,21 @@
             
        }
        .photo-grid { 
-              grid-template-columns: 1fr 1fr;
-              grid-template-rows: 1fr 1fr 1fr;
+              grid-template-columns: 1fr ;
+              grid-template-rows: 1fr 1fr 1fr 1fr;
               gap: 7px 7px;
               grid-auto-flow: row;
               grid-template-areas:
-                "photo1 photo4"
-                "photo5 photo4"
-                "photo3 photo2";
+                "photo1"
+                "photo5 "
+                "photo4"
+                "photo3 "
+                "photo2";
               color:white;
               padding: 1em;
               border: 1px white solid;
-              max-width: 60%;
+              max-width: a;
+              height: auto;
               margin-left: 2em;
              
             }
@@ -125,28 +128,3 @@
               } 
 
        
-         
-              @media only screen and (max-width: 600px) {
-                     .photo-grid { 
-                            grid-template-columns: 1fr ;
-                            grid-template-rows: 1fr fr ;
-                            gap: 7px 7px;
-                            grid-auto-flow: row;
-                            grid-template-areas:
-                              ""
-                              "photo5 "
-                              "photo4"
-                             ;
-                            color:white;
-                            padding: 1em;
-                            border: 1px white solid;
-                            max-width: 70%;
-                            height: auto;
-                            margin-left: 2em;
-                           
-                           
-                          }
-              
-                       
-                   }
-             
