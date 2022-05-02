@@ -1,8 +1,8 @@
 import React from "react";
 import { Link} from "react-router-dom";
 import "./Footer.css";
-import { BsTwitter, BsLinkedin ,BsFacebook} from "react-icons/bs";
-// import { RiFacebook } from "react-icons/ri";
+import { BsTwitter, BsLinkedin } from "react-icons/bs";
+import { RiFace } from "react-icons/ri";
 const Footer = () => {
   return (
     <div className=" footer-section">
@@ -15,9 +15,9 @@ const Footer = () => {
           </div>
 
           <div class=" footer-right-part">
-             {/* <a target="_blank" href=""> <BsTwitter /> </a> */}
-             <a target="_blank" href="https://www.linkedin.com/company/verifai-security/"> <BsLinkedin /> </a>
-             <a target="_blank" href="https://www.facebook.com/verifaiphishing"> <BsFacebook /> </a>
+             <a href=""> <BsTwitter /> </a>
+             <a href="https://www.linkedin.com/company/verifai-security/"> <BsYoutube /> </a>
+             <a href="https://www.facebook.com/verifaiphishing"> <RiInstagramFill /> </a>
           </div>
        
       {/* </div> */}

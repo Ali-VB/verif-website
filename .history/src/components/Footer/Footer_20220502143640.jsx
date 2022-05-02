@@ -15,9 +15,9 @@ const Footer = () => {
           </div>
 
           <div class=" footer-right-part">
-             {/* <a target="_blank" href=""> <BsTwitter /> </a> */}
-             <a target="_blank" href="https://www.linkedin.com/company/verifai-security/"> <BsLinkedin /> </a>
-             <a target="_blank" href="https://www.facebook.com/verifaiphishing"> <BsFacebook /> </a>
+             <a href=""> <BsTwitter /> </a>
+             <a href="https://www.linkedin.com/company/verifai-security/"> <BsLinkedin /> </a>
+             <a href="https://www.facebook.com/verifaiphishing"> <BsFacebook /> </a>
           </div>
        
       {/* </div> */}
