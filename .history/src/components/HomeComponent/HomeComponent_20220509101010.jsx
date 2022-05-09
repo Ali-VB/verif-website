@@ -19,7 +19,6 @@ const HomeComponent = () => {
                 3.18% of employees
                 will go as far as providing credentials. Try verifa.i. "
         />
-        <link rel="canonical" href="/" />
       </Helmet>
       <Header />
       <BelowHeader />

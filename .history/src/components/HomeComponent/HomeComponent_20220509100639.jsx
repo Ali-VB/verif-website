@@ -6,21 +6,11 @@ import AiSection from "../AiSection/AiSection";
 import BuySection from "../BuySection/BuySection";
 import Supporter from "../Supporter/Supporter";
 import Footer from "../Footer/Footer";
-import BelowHeader from "../BelowHeader/BelowHeader";
-import { Helmet } from "react-helmet-async";
+import BelowHeader from "../BelowHeader/BelowHeader"
 const HomeComponent = () => {
   return (
     <div>
-      <Helmet>
-        <title> Home </title>
-        <meta
-          name="description"
-          content="If a phishing attack reaches their inbox,
-                3.18% of employees
-                will go as far as providing credentials. Try verifa.i. "
-        />
-        <link rel="canonical" href="/" />
-      </Helmet>
+      <He
       <Header />
       <BelowHeader />
       <Feature />

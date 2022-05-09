@@ -134,8 +134,8 @@
                             grid-auto-flow: row;
                             grid-template-areas:
                               "photo4"
-                              "photo2"
-                              ""
+                              "photo2 "
+                              "photo4"
                              ;
                             color:white;
                             padding: 1em;

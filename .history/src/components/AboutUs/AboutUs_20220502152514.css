@@ -129,13 +129,13 @@
               @media only screen and (max-width: 600px) {
                      .photo-grid { 
                             grid-template-columns: 1fr ;
-                            grid-template-rows: 1fr fr fr;
+                            grid-template-rows: 1fr fr ;
                             gap: 7px 7px;
                             grid-auto-flow: row;
                             grid-template-areas:
                               "photo4"
-                              "photo2"
-                              ""
+                              "photo3 "
+                              "photo4"
                              ;
                             color:white;
                             padding: 1em;

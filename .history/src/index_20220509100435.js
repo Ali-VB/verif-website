@@ -13,6 +13,7 @@ root.render(
     <HelmetProvider>
         <App />
     </HelmetProvider>
+  
   </React.StrictMode>
 );
 

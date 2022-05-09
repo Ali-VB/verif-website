@@ -8,15 +8,16 @@ const ContactUs = () => {
   return (
     <div className="container">
       <Helmet>
-        <title> Contact Us </title>
+        <title> Contact us </title>
         <meta
           name="description"
-          content="  Whether you’re a company, MSP, distributor or IT service provider,
-         contact us. "
+          content="If a phishing attack reaches their inbox,
+                3.18% of employees
+                will go as far as providing credentials. Try verifa.i. "
         />
-        <link rel="canonical" href="/contact" />
       </Helmet>
       <div class=" contact-section">
+       
         <div class=" contact-section-left">
           <div>Let’s get </div> <div>in touch!</div>
           <div>
@@ -27,6 +28,7 @@ const ContactUs = () => {
         <div class="contact-section-right">
           <ContactForm />
         </div>
+       
       </div>
     </div>
   );

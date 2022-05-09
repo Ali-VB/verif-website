@@ -14,7 +14,7 @@ const ContactUs = () => {
           content="  Whether you’re a company, MSP, distributor or IT service provider,
          contact us. "
         />
-        <link rel="canonical" href="/contact" />
+         <link rel='canonical' href='/contact' />
       </Helmet>
       <div class=" contact-section">
         <div class=" contact-section-left">

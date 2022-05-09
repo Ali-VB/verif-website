@@ -12,9 +12,10 @@ const ContactUs = () => {
         <meta
           name="description"
           content="  Whether you’re a company, MSP, distributor or IT service provider,
-         contact us. "
+          Let’s get
+          in touch. "
         />
-        <link rel="canonical" href="/contact" />
+         <link rel='canonical' href='/contact' />
       </Helmet>
       <div class=" contact-section">
         <div class=" contact-section-left">

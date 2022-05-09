@@ -27,10 +27,10 @@ const AboutUs = () => {
         <title> About Us </title>
         <meta
           name="description"
-          content="Verifa.i. is a Montreal-based startup committed to placing the power of technology
+          content="  Verifa.i. is a Montreal-based startup committed to placing the power of technology
            on the side of companies in their fight against looting cybercriminals. "
         />
-        <link rel="canonical" href="/about" />
+        <link rel="canonical" href="/contact" />
       </Helmet>
       <div class=" about-section">
         <div class=" contact-section-left">
